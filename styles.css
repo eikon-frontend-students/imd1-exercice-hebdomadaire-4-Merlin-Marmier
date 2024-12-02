@@ -1,3 +1,27 @@
-body {
-  background: hotpink;
+div{
+  display: inline-flex;
+  background: #FFE4E4;
+  padding: 10px 16px;
+  width: 1000px;
+  flex-direction: column;
+  justify-content: center;
+  color: red;
+  font-family: "Roboto Mono";
+  flex-wrap: wrap;
+  
+}
+
+h1{
+  font-family: roboto;
+} 
+
+h2{
+  text-align: center;
+
+}
+h3{
+  
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
 }
